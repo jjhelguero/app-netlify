@@ -1,4 +1,4 @@
-#APP-NETLIFY
+# APP-NETLIFY
 
 This repo showcases an instance where a the web app and web app e2e tests are in separate repos, [app-netlify-cypress-tests](https://github.com/jjhelguero/app-netlify-cypress-tests).
 
